@@ -1,0 +1,14 @@
+# Manual de Instalação
+
+## Requisitos:
+- Windows 10/11
+- Visual Basic 6
+- SQL Server Express 2022
+- SQL Server Management Studio (SSMS)
+- ODBC Driver para SQL Server
+
+## Passo a Passo:
+1. Abra `SQL Server Management Studio` e rode `BancoDeDados/SistemaCorretores.sql`
+2. No VB6, abra `DesafioTecnico_VB6/Fonte/Projeto.vbp`
+3. Compile o projeto (`File → Make Executable`)
+4. Rode `Executável/Projeto.exe`
